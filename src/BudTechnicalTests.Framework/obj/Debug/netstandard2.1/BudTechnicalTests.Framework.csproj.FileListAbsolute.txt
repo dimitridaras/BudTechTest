@@ -1,0 +1,9 @@
+/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/bin/Debug/netstandard2.1/BudTechnicalTests.Framework.deps.json
+/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/bin/Debug/netstandard2.1/BudTechnicalTests.Framework.dll
+/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/bin/Debug/netstandard2.1/BudTechnicalTests.Framework.pdb
+/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/obj/Debug/netstandard2.1/BudTechnicalTests.Framework.csprojAssemblyReference.cache
+/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/obj/Debug/netstandard2.1/BudTechnicalTests.Framework.AssemblyInfoInputs.cache
+/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/obj/Debug/netstandard2.1/BudTechnicalTests.Framework.AssemblyInfo.cs
+/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/obj/Debug/netstandard2.1/BudTechnicalTests.Framework.csproj.CoreCompileInputs.cache
+/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/obj/Debug/netstandard2.1/BudTechnicalTests.Framework.dll
+/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/obj/Debug/netstandard2.1/BudTechnicalTests.Framework.pdb

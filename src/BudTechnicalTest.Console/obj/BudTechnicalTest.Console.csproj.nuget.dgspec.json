@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTest.Console/BudTechnicalTest.Console.csproj": {}
+  },
+  "projects": {
+    "/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTest.Console/BudTechnicalTest.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTest.Console/BudTechnicalTest.Console.csproj",
+        "projectName": "BudTechnicalTest.Console",
+        "projectPath": "/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTest.Console/BudTechnicalTest.Console.csproj",
+        "packagesPath": "/Users/techie/.nuget/packages/",
+        "outputPath": "/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTest.Console/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/techie/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/BudTechnicalTests.Framework.csproj": {
+                "projectPath": "/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/BudTechnicalTests.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/BudTechnicalTests.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/BudTechnicalTests.Framework.csproj",
+        "projectName": "BudTechnicalTests.Framework",
+        "projectPath": "/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/BudTechnicalTests.Framework.csproj",
+        "packagesPath": "/Users/techie/.nuget/packages/",
+        "outputPath": "/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/techie/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

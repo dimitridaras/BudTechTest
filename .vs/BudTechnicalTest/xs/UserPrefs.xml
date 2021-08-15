@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{C469769F-903E-42D0-8815-DDEA74600178}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/BudTechnicalTests.Framework/GetCountryData/GetCountryDataQueryHandler.cs">
+    <Files>
+      <File FileName="src/BudTechnicalTests.Framework/GetCountryData/GetCountryDataQueryHandler.cs" Line="19" Column="42" />
+      <File FileName="test/BudTechnicalTest.Framework.Tests/GetCountryDataQueryHandlerTests.cs" />
+      <File FileName="test/BudTechnicalTest.Framework.Tests/CountryData.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BudTechnicalTest" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="BudTechnicalTest.Console" expanded="True" />
+              <Node name="BudTechnicalTests.Framework" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+                <Node name="GetCountryData" expanded="True">
+                  <Node name="GetCountryDataQueryHandler.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="test" expanded="True">
+              <Node name="BudTechnicalTest.Framework.IntegrationTests" expanded="True">
+                <Node name="Dependencies" expanded="True" />
+              </Node>
+              <Node name="BudTechnicalTest.Framework.UnitTests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>BudTechnicalTest.Framework.Tests/BudTechnicalTest.Framework.UnitTests.csproj</String>
+    <String>BudTechnicalTest.Framework.IntegrationTests/BudTechnicalTest.Framework.IntegrationTests.csproj</String>
+    <String>BudTechnicalTest/BudTechnicalTest.Console.csproj</String>
+    <String>BudTechnicalTests.Framework/BudTechnicalTests.Framework.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/GetCountryData/GetCountryDataQueryHandler.cs" relfile="src/BudTechnicalTests.Framework/GetCountryData/GetCountryDataQueryHandler.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.src.BudTechnicalTest.Console PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

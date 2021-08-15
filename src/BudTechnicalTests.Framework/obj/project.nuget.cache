@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Gwts6+Gs08zB+yjV8esWmqVJNEle7FqgGqLlGaN7H+2Yj9cb7Z3rOsH6zz+mbOxWzpMKI8Xv7xSTIiKE4HiaQ==",
+  "success": true,
+  "projectFilePath": "/Users/techie/Projects/BudTechnicalTest/src/BudTechnicalTests.Framework/BudTechnicalTests.Framework.csproj",
+  "expectedPackageFiles": [
+    "/Users/techie/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/techie/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/techie/.nuget/packages/restsharp/106.12.0/restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
