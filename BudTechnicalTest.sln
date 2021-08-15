@@ -15,6 +15,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudTechnicalTest.Framework.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudTechnicalTest.Framework.UnitTests", "test\BudTechnicalTest.Framework.Tests\BudTechnicalTest.Framework.UnitTests.csproj", "{D45E4172-CA4B-4B4F-BC3F-7F0CA5D66865}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2BC80E29-B9F0-42B3-9361-0E6713B8A8C5}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
